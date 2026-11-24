@@ -1,0 +1,590 @@
+[
+ {
+  "id": "v001",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/720p/E2.1_C_E2.4_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v002",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/720p/E2.1_F1_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v003",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/720p/E2.1_N2_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v004",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/E1.1_C_E1.2_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v005",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/E1.1_F2_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v006",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 1 Videos/E1.1_N3_D1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v007",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/720p/E2.1_C_E2.2_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v008",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/720p/E2.1_F3_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v009",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/720p/E2.1_N4_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v010",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/E1.1_C_E1.2_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v011",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/E1.1_F4_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v012",
+  "cohort": "Freely Moving Cohort 1",
+  "file": "Day 2 Videos/E1.1_N1_D2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v013",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E5.1_VS_E5.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v014",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E5.1_VS_LFM1.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v015",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E5.1_VS_N1.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v016",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E6.1_VS_E6.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v017",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E6.1_VS_LFM1.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v018",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/DAY 1 FREELY MOVING/E6.1_VS_NM1.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v019",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/E5.1_E5.3_D210,MIN.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/CAGEMATE_E5.1_E5.3_D210,MIN.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v020",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/E5.1_FAM1.2_D2.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/FAMILIAR_E5.1_FAM1.2_D2.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v021",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/E5.1_N1.4_D2.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/NOVEL_E5.1_N1.4_D2.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v022",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/e6.1_e6.3_d2.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/CAGEMATE_e6.1_e6.3_d2.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v023",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/e6.1_fam1.4_d2.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/FAMILIAR_e6.1_fam1.4_d2.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v024",
+  "cohort": "freely moving cohort 2",
+  "file": "day 1 videos/day 2 freely moving/e6.1_n1.3_d2.mp4",
+  "copies": [
+   "freely moving cohort 2/day 2 freely moving/NOVEL_e6.1_n1.3_d2.mp4"
+  ],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v025",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E10.1_E10.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v026",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E7.1_E7.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v027",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E8.1_E8.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v028",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E8.2_E8.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v029",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E9.1_E9.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v030",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_D1_E9.2_E9.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v031",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_d1_e11.1_e11.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v032",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/CAGEMATE_d1_e7.2_e7.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v033",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_D1_E10.1_FM3.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v034",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_D1_E7.1_FM2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v035",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_D1_E8.1_FM2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v036",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_D1_E8.2_FM2.1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v037",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_D1_E9.1_FF2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v038",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_d1_e11.1_ff2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v039",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_d1_e7.2_fm2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v040",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/FAMILIAR_d1_e9.2_ff2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v041",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_D1_E10.1_NM3.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v042",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_D1_E7.1_NM2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v043",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_D1_E8.1_NM2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v044",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_D1_E8.2_NM2.1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v045",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_D1_E9.1_NF2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v046",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_d1_e11.1_nf2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v047",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_d1_e7.2_nm2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v048",
+  "cohort": "freely moving cohort 3",
+  "file": "day 1/NOVEL_d1_e9.2_nf2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v049",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_D2_7.2_CE7.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v050",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_D2_E11.1_E11.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v051",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_D2_E8.2_E8.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v052",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_D2_E9.2_E9.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v053",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_d2_e10.1_e10.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v054",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_d2_e7.1_e7.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v055",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_d2_e8.1_e8.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v056",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/CAGEMATE_d2_e9.1_e9.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v057",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_D2_7.2_FM2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v058",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_D2_E11.1_FF2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v059",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_D2_E8.2_FM3.1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v060",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_D2_E9.2_FF2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v061",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_d2_8.1_fm3.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v062",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_d2_e10.1_fm3.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v063",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_d2_e7.1_fm2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v064",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/FAMILIAR_d2_e9.1_ff2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v065",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_D2_E11.1_NF2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v066",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_D2_E7.2_NM2.1.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v067",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_D2_E8.2_NM3.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v068",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_D2_E9.2_NF2.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v069",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_d2_e10.1_nm3.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v070",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_d2_e7.1_nm2.4.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v071",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_d2_e8.1_nm3.3.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ },
+ {
+  "id": "v072",
+  "cohort": "freely moving cohort 3",
+  "file": "day 2/NOVEL_d2_e9.1_nf2.2.mp4",
+  "copies": [],
+  "width_px": 1280,
+  "height_px": 720
+ }
+]

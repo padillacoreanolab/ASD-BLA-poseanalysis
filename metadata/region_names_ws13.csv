@@ -1,0 +1,14 @@
+region,name,group
+0,Mutual sniffing,Investigation
+1,Resting together,"Close, passive"
+2,Subject sniffs partner's body,Investigation
+3,"Partner approaches, subject still",Approach
+4,"Partner approaches, subject moves off",Approach
+5,Partner sniffs subject (body / face),Investigation
+6,Partner sniffs subject (anogenital),Investigation
+7,"Close, subject oriented","Close, passive"
+8,"Close, no sniffing","Close, passive"
+9,"Apart, exploring",Non-social
+10,Subject follows and sniffs anogenital,Investigation
+11,"Apart, subject still",Non-social
+12,Fast movement near partner,Approach

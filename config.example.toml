@@ -1,0 +1,24 @@
+# Copy this file to config.toml (git-ignored) and set the paths for your machine. "~" is expanded.
+
+[paths]
+# SLEAP .analysis.h5 files. metadata/design_table.csv lists each session's file relative to this folder.
+h5_root = "~/ecohortanalysis"
+# Folder holding the BORIS aggregated-event exports (sub-folders listed in c21pose/boris.py: DIRS).
+boris_root = "~/Downloads/Research/BORIS Behavior Scoring"
+# 720p videos, laid out as in metadata/cage_calibration/videos.json (<cohort>/<file>). Only needed for
+# `02_repair_poses.py --mode video`; the default replay mode does not read videos.
+video_root = "~/UF Dropbox/Edgar Ocasio Arce/Padilla-Coreano Lab/2026/ASD Mice"
+# Where caches, tables and figures are written (default: ./outputs).
+out_dir = "outputs"
+# Optional: BORIS seconds and bouts per session (boris_long.csv, made by boris_rebuild.py + boris_deck_figs.py in the
+# BLA C21 project). Only used to add BORIS columns next to the SLEAP sniffing results. Leave "" to skip.
+boris_session_table = ""
+# Optional: the old project's outputs_cm/ folder, to check this pipeline against the Nov 2026 results
+# (scripts/verify_against_reference.py). Leave "" to skip.
+reference_dir = ""
+
+[boris]
+# BORIS labels of these sessions are ignored (session treated as unscored). E2.1_N2_D1 got its BORIS export on
+# 8 Nov 2026, after the poster pipeline was frozen; keep it here to reproduce the Nov 2026 numbers exactly,
+# remove it to use the newer scoring. See NOTES.md.
+exclude_sessions = ["E2.1_N2_D1.000_E2.1_N2_D1.analysis.h5"]
